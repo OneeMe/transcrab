@@ -1,0 +1,28 @@
+{
+  "before": {
+    "ok": false,
+    "score": 84,
+    "issues": [
+      {
+        "code": "ascii-punctuation-near-cjk",
+        "level": "medium",
+        "index": 7646,
+        "message": "检测到中文邻近英文标点，建议替换为中文标点",
+        "excerpt": ";隐"
+      },
+      {
+        "code": "ascii-punctuation-near-cjk",
+        "level": "medium",
+        "index": 7789,
+        "message": "检测到中文邻近英文标点，建议替换为中文标点",
+        "excerpt": ";总"
+      }
+    ]
+  },
+  "after": {
+    "ok": true,
+    "score": 100,
+    "issues": []
+  },
+  "autoFixed": true
+}

@@ -1,0 +1,9 @@
+{
+  "mode": "auto",
+  "audience": "general",
+  "style": "technical",
+  "topic": "technology",
+  "chunkThreshold": 4000,
+  "chunkMaxWords": 5000,
+  "glossary": []
+}
